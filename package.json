@@ -1,0 +1,23 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Todo List Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcgutierrez93/Todo-List.git"
+  },
+  "author": "David Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcgutierrez93/Todo-List/issues"
+  },
+  "homepage": "https://github.com/dcgutierrez93/Todo-List#readme",
+  "dependencies": {
+    "sequelize-cli": "^3.0.0"
+  }
+}
